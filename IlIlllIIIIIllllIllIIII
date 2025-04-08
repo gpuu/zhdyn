@@ -1,1 +1,6 @@
-IlIlIlIIII = true
+return {
+    IlIlIlIIII = true,
+    lIlIlIllII = false,
+    IIlIlllIII = true,
+    IlllIIlIlI = true
+}
